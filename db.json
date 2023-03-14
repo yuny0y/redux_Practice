@@ -1,0 +1,10 @@
+{
+  "todos": [
+    {
+      "id": "uuid4()",
+      "title": "리액트",
+      "contents": "공부하기",
+      "isDone": false
+    }
+  ]
+}
